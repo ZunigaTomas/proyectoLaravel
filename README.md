@@ -4,7 +4,7 @@
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 </p>
 
-## About Laravel
+## Pasos para correr el proyecto
 
 Una vez descargado la carpeta, la cual debe estar dentro de htdocs, realiza los siguientes pasos:
 
